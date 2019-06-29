@@ -1,0 +1,14 @@
+------------------------------
+PRIO I
+------------------------------
+1. Create prototype where attack value can be calculated based on capacity and attack level of character
+2. Take into account Agility to calculate DPS
+3. Interpolate Formula for Growth~Capacity increase per level
+------------------------------
+PRIO II
+------------------------------
+1. Create GUI
+------------------------------
+PRIO III
+------------------------------
+1. Write actual Simulations

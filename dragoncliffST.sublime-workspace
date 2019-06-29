@@ -1,0 +1,428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import numpy as np\nimport pandas as pd\n\nclass Character():\n    \"\"\"\n    Base class for all character types.\n\n    ...\n\n    Attributes\n    ----------\n    says_str : str\n        a formatted string to print out what the animal says\n    name : str\n        the name of the animal\n    sound : str\n        the sound that the animal makes\n    num_legs : int\n        the number of legs the animal has (default 4)\n\n    Methods\n    -------\n    says(sound=None)\n        Prints the animals name and what sound it makes\n    \"\"\"",
+			"file": "characters.py",
+			"file_size": 535,
+			"file_write_time": 132062801787984236,
+			"settings":
+			{
+				"buffer_size": 511,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Anaconda_dragoncliff.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Anaconda_dragoncliff.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Anaconda_dragoncliff.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"py",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Tschuulach/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda_dragoncliff.sublime-build",
+		"/C/Users/Tschuulach/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Tschuulach/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/Tschuulach/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Tschuulach/Dropbox/ETH/Master/masterarbeit/midterm presentation/sources.txt",
+		"/C/Users/Tschuulach/Dropbox/ETH/Master/masterarbeit/data/data_vis.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp10850/local/home/jbolick/120GBext/save_1561410768.84_test_grid.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp39216/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_explore.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp24427/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/environments.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp12522/local/home/jbolick/120GBext/save_1561410768.84_test_grid.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp13162/local/home/jbolick/120GBext/save_1561404753.23_test_freq.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp14432/local/home/jbolick/120GBext/save_1561376777.13_test_change_var_scale.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp14806/local/home/jbolick/120GBext/save_1561401673.11_test_freq.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp14539/local/home/jbolick/120GBext/save_1560984249.04_test_scale_oob.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp29355/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_explore_test.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp32650/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_explore_test_freq.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp42179/local/home/jbolick/120GBext/save_1561404753.23_test_freq.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp56452/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_explore_test_grid.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp13833/local/home/jbolick/120GBext/save_1560984249.04_test_scale_oob.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp20070/local/home/jbolick/120GBext/save_1561401673.11_test_freq.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp20641/local/home/jbolick/120GBext/save_1561401506.98_test_freq.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp20917/local/home/jbolick/120GBext/save_1560984249.04_test.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp26464/local/home/jbolick/120GBext/save_1561365629.12_test.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp20265/local/home/jbolick/120GBext/save_1561365645.58_test_var.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp20984/local/home/jbolick/120GBext/save_1560734340_explore_std.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp19776/local/home/jbolick/120GBext/save_1560905615_explore_exp.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp20964/local/home/jbolick/120GBext/save_1561376777.13_test.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp22916/local/home/jbolick/120GBext/save_1561375805.68.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp22953/local/home/jbolick/120GBext/save_1561375020.71.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp32332/local/home/jbolick/120GBext/save_1560984249.04_test.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp17712/local/home/jbolick/120GBext/save_1561365645.58_test.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp33427/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_explore_test.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp37604/local/home/jbolick/.bashrc",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp41732/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_explore_test.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp56813/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_collect.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp06309/local/home/jbolick/120GBext/save_1560981457.29_test.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp38279/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/environments.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp00012/local/home/jbolick/120GBext/save_1560984249.04_test.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp37841/local/home/jbolick/120GBext/save_1560983424.48_test.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp42208/local/home/jbolick/120GBext/save_1560905615.22.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp18109/local/home/jbolick/120GBext/save_1560734340_explore_std.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp35117/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/run_test.sh",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp46711/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_collect.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp43409/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_explore.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp58998/local/home/jbolick/120GBext/save_1560905615.22.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp45921/local/home/jbolick/120GBext/save_1560734340_explore_std.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp40400/local/home/jbolick/120GBext/save_1560904371.98.csv",
+		"/C/Users/Tschuulach/Desktop/installation_scalable_agent.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp10241/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/environments.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07341/local/home/jbolick/120GBext/save_1560864168.11.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp18914/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp09351/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_costum.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp53177/local/home/jbolick/120GBext/lab/python/random_agent.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp00402/local/home/jbolick/120GBext/level_cache/empty_room_noaas_5b1ea3a9cefe6533eb495215852407f4",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp55223/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/environments.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp48182/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment_costum.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp29960/local/home/jbolick/120GBext/lab/python/random_agent.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp46292/local/home/jbolick/120GBext/save_1560734340.71.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp50622/local/home/jbolick/120GBext/generating-captchas-with-deep-learning/experiment.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp23854/local/home/jbolick/120GBext/save_1560734340.71.csv",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp51227/local/home/jbolick/120GBext/scalable_agent/experiment.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp15044/local/home/jbolick/120GBext/scalable_agent/environments.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp13471/local/home/jbolick/120GBext/scalable_agent/experiment.py",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp56321/local/home/jbolick/120GBext/agent/graph.pbtxt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp55415/local/home/jbolick/120GBext/agent/checkpoint",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp55585/local/home/jbolick/120GBext/agent/events.out.tfevents.1559688504.ee-tik-vm007",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp55171/local/home/jbolick/120GBext/scalable_agent/learn.sh",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp24381/local/home/jbolick/120GBext/scalable_agent/experiment.py",
+		"/D/Matlab/license.txt",
+		"/C/Users/Tschuulach/slt-coding-exercises-19/email-Eu-core.txt",
+		"/C/Users/Tschuulach/Dropbox/ETH/Master/Statistical Learning Theory/stupid edit file.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp00790/home/wem_diu1/newscripts/analyse/results/ausfz_20190421_20190424_070114.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp24599/home/wem_diu1/newscripts/analyse/results/bluewin_20190417_20190424_070309.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp00831/home/wem_diu1/newscripts/analyse/results/ausfz_20190419_20190424_070059.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp00706/home/wem_diu1/newscripts/analyse/results/ausfz_20190420_20190424_070106.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp48265/home/wem_diu1/newscripts/analyse/results/si_20190419_20190424_084703.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp46260/home/wem_diu1/newscripts/mobilescan/appscanlog/24heures_20190416_20190417_104055.txt.stats",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp17110/home/wem_diu1/newscripts/analyse/results/students_20190328_20190402_142241.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp17596/home/wem_diu1/newscripts/analyse/results/students_20190328_20190402_142444.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp16129/home/wem_diu1/newscripts/analyse/results/students_20190327_20190402_142623.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp16455/home/wem_diu1/newscripts/analyse/results/students_20190326_20190402_142628.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp12796/home/wem_diu1/newscripts/analyse/results/liberte_20190401_20190403_111009.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp16774/home/wem_diu1/newscripts/analyse/results/liberte_20190401_20190403_111541.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp46410/home/wem_diu1/newscripts/analyse/results/infoweek_20190330_20190403_094655.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp46501/home/wem_diu1/newscripts/analyse/results/infoweek_20190402_20190403_094651.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp46362/home/wem_diu1/newscripts/analyse/results/infoweek_20190401_20190403_094647.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp26542/home/wem_diu1/newscripts/analyse/results/hev_20190401_20190403_092537.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp26994/home/wem_diu1/newscripts/analyse/results/hev_20190331_20190403_092547.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp26300/home/wem_diu1/newscripts/analyse/results/hev_20190402_20190403_092543.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp31594/home/wem_diu1/newscripts/analyse/results/hev_20190401_20190403_093118_cs.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp13069/home/wem_diu1/newscripts/analyse/results/frimagfr_20190401_20190403_090931.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp13951/home/wem_diu1/newscripts/analyse/results/frimagfr_20190326_20190403_090916.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp13090/home/wem_diu1/newscripts/analyse/results/frimagfr_20190325_20190403_090850.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp13643/home/wem_diu1/newscripts/analyse/results/frimagfr_20190401_20190403_091132.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp13962/home/wem_diu1/newscripts/analyse/results/frimagfr_20190325_20190403_091108.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp13591/home/wem_diu1/newscripts/analyse/results/frimagfr_20190326_20190403_091117.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp56180/home/wem_diu1/newscripts/analyse/results/finews_20190401_20190402_142259.txt",
+		"/C/Users/Tschuulach/Desktop/dfg.txt",
+		"/C/Users/Tschuulach/Desktop/psychsolider.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp40783/home/wem_diu1/newscripts/analyse/results/tagesanz_20190302_20190306_143821.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp43976/home/wem_diu1/newscripts/analyse/results/tagesanz_20190302_20190306_144134.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp40111/home/wem_diu1/newscripts/analyse/results/tagesanz_20190302_20190306_143652.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp29313/home/wem_diu1/newscripts/analyse/results/bernerz_20190301_20190306_142854.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp29915/home/wem_diu1/newscripts/analyse/results/bernerz_20190301_20190306_142748.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp02534/home/wem_diu1/newscripts/mobilescan/appscanlog/fm1today_20190226_20190227_100157.txt.stats",
+		"/C/Users/Tschuulach/.conda/environments.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp10860/home/wem_diu1/newscripts/mobilescan/appscanlog/sbb_20190219_20190220_130208.txt.stats",
+		"/C/Users/Tschuulach/Desktop/pw.txt",
+		"/C/Users/Tschuulach/Desktop/enh.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp59347/home/wem_diu1/newscripts/mobilescan/appscanlog/bernerz_20190212_20190213_081111.txt.stats",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07055/home/wem_diu1/newscripts/analyse/results/tvair_20190120_20190213_100213.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp01903/home/wem_diu1/newscripts/analyse/results/tvair_20181220_20190213_095816.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp59921/home/wem_diu1/newscripts/analyse/results/bernerz_20190210_20190213_082630.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp57426/home/wem_diu1/newscripts/analyse/results/tvair_20181120_20190213_095344.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp10686/home/wem_diu1/newscripts/mobilescan/sitescanlog/derbund_20190206_20190207_124003.txt.stats",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp28745/home/wem_diu1/newscripts/mobilescan/sitescanlog/letemps_20190206_20190207_122353.txt.stats",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp21825/home/wem_diu1/newscripts/mobilescan/sitescanlog/local_20190206_20190207_091918.txt.stats",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp22521/home/wem_diu1/newscripts/mobilescan/appscanlog/lacote_20190129_20190130_102230.txt.stats",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07857/home/wem_diu1/newscripts/analyse/results/20minro_20190122_20190130_083645.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07097/home/wem_diu1/newscripts/analyse/results/20minro_20190122_20190130_080659.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07767/home/wem_diu1/newscripts/analyse/results/20minro_20190122_20190130_075428.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07833/home/wem_diu1/newscripts/analyse/results/20minro_20190124_20190130_083658.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07115/home/wem_diu1/newscripts/analyse/results/20minro_20190124_20190130_075500.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07951/home/wem_diu1/newscripts/analyse/results/20minro_20190124_20190130_080712.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07735/home/wem_diu1/newscripts/analyse/results/20minro_20190115_20190130_080732.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07816/home/wem_diu1/newscripts/analyse/results/20minro_20190129_20190130_082323.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp07981/home/wem_diu1/newscripts/analyse/results/20minro_20190120_20190130_081549.txt",
+		"/C/Users/Tschuulach/AppData/Local/Temp/scp08265/home/wem_diu1/newscripts/analyse/results/lematin_20190121_20190130_080425.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"linting"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "characters.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								151
+							]
+						],
+						"settings":
+						{
+							"SL.83.region_keys":
+							[
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dragoncliffST.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
